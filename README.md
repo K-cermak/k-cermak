@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @k-cermak
+# 👋 Hi, I'm @K-cermak
 
 - 🎓 I'm a student.<br>
 - 🌍 I love web technologies (WordPress, PHP, Laravel).
