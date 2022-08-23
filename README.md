@@ -5,8 +5,10 @@
 - 🐒 I also occasionally do something in Java or in Arduino.
 - 👩‍💻 I'm fascinated by any technology - like Bitcoin.
 
+<br>
+<br>
 
-##  You can also find me at:
+##  You can find me at:
   - info@k-cermak.com
   - https://k-cermak.com
   - https://twitter.com/k_cermak
