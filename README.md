@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @K-cermak
 
-- 🎓 I'm a student.<br>
-- 🌍 I love web technologies (WordPress, PHP, Laravel).
+- 🎓 I'm a student (SPŠE / FI MUNI).<br>
+- 🌍 I love web technologies.
 - 🐒 I also occasionally do something in Java or in Arduino.
 - 👩‍💻 I'm fascinated by any technology - like Bitcoin.
 
