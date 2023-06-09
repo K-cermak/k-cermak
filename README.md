@@ -16,7 +16,7 @@
 
 ## Repos emoji meaning:
   - ✔️✔️✔️ - Completed, no update planned in the near future.
-  - ✔️👨‍💻✔️ - Completed, working on a new version.
-  - 👨‍💻✔️👨‍💻 - Completed, a new version is planned.
+  - ✔️✔️👨‍💻 - Completed, working on a new version.
+  - ✔️👨‍💻👨‍💻 - Completed, a new version is planned.
   - 👨‍💻👨‍💻👨‍💻 - Unfinished, work in progress.
   - ⌛⌛⌛ - A frozen project, nothing is planned in the near future.
