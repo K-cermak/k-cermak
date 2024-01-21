@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @K-cermak
 
-- 🎓 I'm a student (FI MUNI).<br>
-- 🌍 I love web technologies.
+- 🎓 Student at FI MUNI in Brno.<br>
+- 🌍 Web dev.
 
 <br>
 
