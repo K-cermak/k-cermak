@@ -6,8 +6,8 @@
 <br>
 
 ## You can find me at:
-  - info@k-cermak.com
-  - https://k-cermak.com
+  - info@karlosoft.com
+  - https://karlosoft.com
   - https://twitter.com/k_cermak
   - https://pixabay.com/cs/users/k-cermak-17757529/
 
