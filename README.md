@@ -2,5 +2,5 @@
 <br>
 
 ## You can find me at:
-  - info@karlosoft.com
   - https://karlosoft.com
+  - info@karlosoft.com
