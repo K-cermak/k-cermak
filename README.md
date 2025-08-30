@@ -1,5 +1,4 @@
 # 👋 Hi, I'm @K-cermak
-<br>
 
 ## I am:
 - 🎓 Student at FI MUNI (Brno, CZ)
