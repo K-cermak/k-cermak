@@ -5,7 +5,6 @@
 - 🏫 Seminar Tutor at FI MUNI (Brno, CZ)
 - 👨‍💻 Software Developer at ICS MUNI (Brno, CZ)
 - 💻 IT Administrator at TOM service (Moravany, CZ)
-- 🌐 Freelance Software Developer - websites and other systems
 
 ## You can find me at:
   - https://www.linkedin.com/in/k-cermak/
