@@ -1,10 +1,10 @@
 # 👋 Hi, I'm @K-cermak
 
-## I am:
-- 🎓 Student at FI MUNI (Brno, CZ)
-- 🏫 Seminar Tutor at FI MUNI (Brno, CZ)
-- 👨‍💻 Software Developer at ICS MUNI (Brno, CZ)
-- 💻 IT Administrator at TOM service (Moravany, CZ)
+## My Involvement
+- 🎓 Student of the Bachelor's program Programming and development at the Faculty of Informatics, Masaryk University in Brno.
+- 🏫 Seminar Tutor at the Faculty of Informatics, Masaryk University.
+- 👨‍💻 Software Developer at the Institute of Computer Science, Masaryk University.
+- 💻 IT Administrator at TOM service.
 
 ## You can find me at:
   - https://www.linkedin.com/in/k-cermak/
